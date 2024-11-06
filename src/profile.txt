@@ -1,0 +1,8 @@
+Full Name: sathwik
+Gender: male
+Age: 19
+Mobile no.: 1234567890
+Address: none
+Nationality: indian
+Do you have any known disability?: no
+Write your problem: no
